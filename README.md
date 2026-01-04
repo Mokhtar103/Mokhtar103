@@ -15,7 +15,7 @@ I enjoy working across the full stack and continuously improving my skills by bu
 - **Other:** RESTful APIs, Clean Architecture, MVC Pattern
 
 ## 📫 How to Reach Me
-- 💼 **LinkedIn:** [Your LinkedIn Profile Here]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-mokhtar23/
 
 ---
 
